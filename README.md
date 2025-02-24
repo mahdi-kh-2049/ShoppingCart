@@ -71,4 +71,5 @@ src/
 
 <img width="801" alt="Screenshot 2025-02-24 022211" src="https://github.com/user-attachments/assets/7ba9c153-6159-47fd-b73c-54dc7964985a" />
 
-<img width="801" alt="Screenshot 2025-02-24 022211" src="https://github.com/user-attachments/assets/858b5b1d-0c3d-4131-ab32-4c57690aeabf" />
+
+<img width="794" alt="Screenshot 2025-02-24 022258" src="https://github.com/user-attachments/assets/6e7b4e0f-f4f0-4688-b1fd-b0ffd7258436" />
