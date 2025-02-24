@@ -70,6 +70,5 @@ src/
 ```
 
 <img width="801" alt="Screenshot 2025-02-24 022211" src="https://github.com/user-attachments/assets/7ba9c153-6159-47fd-b73c-54dc7964985a" />
-![Screenshot 2025-02-24 022118](https://github.com/user-attachments/assets/6e0da5db-2917-4453-aecf-b87f0e6f7ca7)
 
 <img width="801" alt="Screenshot 2025-02-24 022211" src="https://github.com/user-attachments/assets/858b5b1d-0c3d-4131-ab32-4c57690aeabf" />
